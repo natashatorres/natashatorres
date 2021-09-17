@@ -1,14 +1,10 @@
 
 
-<img src="https://github.com/natashatorres/natashatorres/blob/main/natashatorres.png?raw=true" alt="banner that reads Natasha Torres, Software Engineer | Visual Artist">
+<img src="https://github.com/natashatorres/natashatorres/blob/main/githubanner.png?raw=true" alt="banner that reads Natasha Torres, Software Engineer | Visual Artist">
+<p align="center">Hi, I'm Natasha!</p>
+<p align="center"> I'm a software engineer at <a href="http://www.resilientcoders.org">Resilient Coders</a>, visual artist, day-dreamer based in Boston. I am motivated and inspired by community, healing work, and my bori roots. I want to bridge art and coding to create magia with others.</p>
 
-Hi, I'm Natasha! I'm a software engineer at <a href="http://www.resilientcoders.org">Resilient Coders</a>, visual artist, day-dreamer based in Boston. 
-
-I am motivated and inspired by community, healing work, and my bori roots. 
-
-I want to bridge art and coding to create magia with others.
-
-Let's co-create 🔮: <a href="https://www.linkedin.com/in/natasha-torres">LinkedIn</a> | <a href="https://natashatorres.netlify.app">Portfolio</a> | <a href="https://www.twitter.com/torrestash">Twitter</a>
+<p align="center">Let's co-create 🔮: <a href="https://www.linkedin.com/in/natasha-torres">LinkedIn</a> | <a href="https://natashatorres.netlify.app">Portfolio</a> | <a href="https://www.twitter.com/torrestash">Twitter</a></p>
 
 
 
