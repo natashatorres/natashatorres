@@ -1,5 +1,5 @@
 Hi, I'm Natasha 🌱
-
+![alt text](https://github.com/natashatorres/README.md/blob/main/githubbanner.png?raw=true)
 I'm a software engineer at <a href="http://www.resilientcoders.org"/>Resilient Coders</a> and a visual artist.  
 I am motivated and inspired by community, healing work, and my bori roots. 
 I want to bridge art and coding to create magia with others.
