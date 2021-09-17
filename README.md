@@ -4,7 +4,9 @@
  </p>
 
 <p align="center">Hi, I'm Natasha!</p>
-<p align="center"> I'm a software engineer at <a href="http://www.resilientcoders.org">Resilient Coders</a>, visual artist, day-dreamer based in Boston. I am motivated and inspired by community, healing work, and my bori roots. I want to bridge art and coding to create magia with others. ✨</p>
+<p align="center"> I'm a software engineer, visual artist, day-dreamer based in Boston. </p>
+<p align="center">I am motivated and inspired by community, healing work, and my bori roots.</p>
+<p align="center">I want to bridge art and coding to create magia with others. ✨</p>
 
 <p align="center">Let's co-create 🔮✨</p>
  <p align="center">
