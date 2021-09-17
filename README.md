@@ -5,7 +5,9 @@
 
 <p align="center">Hi, I'm Natasha!</p>
 I'm a software engineer, visual artist, day-dreamer based in Boston. 
+
 I am motivated and inspired by community, healing work, and my bori roots.
+
 I want to bridge art and coding to create magia with others. ✨
 
 <p align="center">Let's co-create 🔮✨</p>
