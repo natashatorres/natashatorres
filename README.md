@@ -1,9 +1,4 @@
-
-<p align="center">
-  <img src="https://github.com/natashatorres/natashatorres/blob/main/natashatorres.png?raw=true" alt="banner that reads Natasha Torres, Software Engineer | Visual Artist">
- </p>
-
-<p align="center">Hi, I'm Natasha!</p>
+# Hi, I'm Natasha! 
 
 <p align="center">I'm a software engineer, visual artist, day-dreamer based in Boston.</p>
 
