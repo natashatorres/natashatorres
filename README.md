@@ -1,7 +1,7 @@
 # Hi, I'm Natasha!
-<p align="left">I'm a software engineer, visual artist, day-dreamer 💭 based in Boston.</p>
+<p align="left">I'm a software engineer, visual artist, day-dreamer 💭 based in Miami, FL.</p>
 
-<p align="left">I am motivated and inspired by community, healing work, and my bori roots.</p>
+<p align="left">I am motivated and inspired by community, healing, and my bori roots.</p>
 
 <p align="left">Let's co-create 🔮✨</p>
  <p align="left">
