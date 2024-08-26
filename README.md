@@ -5,7 +5,7 @@
 
 <p align="left">Let's co-create 🔮✨</p>
  <p align="left">
- <a href="https://www.linkedin.com/in/natasha-torres">LinkedIn</a> | <a href="https://natashatorres.netlify.app">Portfolio</a> | <a href="https://www.twitter.com/tashtorrdev">Twitter</a></p>
+ <a href="https://www.linkedin.com/in/natasha-torres">LinkedIn</a> | <a href="https://www.twitter.com/tashtorrdev">Twitter</a></p>
 
 
 
